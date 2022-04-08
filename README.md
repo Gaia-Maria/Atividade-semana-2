@@ -8,7 +8,7 @@ de que este é um trabalho "colaborativo" entre humanos e maquinas. Partindo dos
 e aplicação da:
 1. Logica; 
 2. Sintaxe; 
-3. Pratica.
+3. Pratica.  
 Chegamos na base da programação. Como escrever codigos e como passar o que pensamos (mental) para
 o que escrevemos na maquina (code). Ao que ao meu ver, em analogia, funcionaria como o aprendizado
 de uma nova lingua onde aprendemos desde de a gramatica (codigos, variaveis e algoritimos) ate a
@@ -26,14 +26,16 @@ sentido agora.
 linguagens da web. Analisando os pontos positivos e negativos.
 2. Rodamos o Node.js e compreendemos a relação dele com o Javasript
 3. Tipos de dados - entendendo que é importante saber o que e como os dados entram (input) e commo se 
-espera que eles saiam (output). 
-    *Strings -> o Uso das aspas simples; aspas duplas e template laterais
-        +Aplicamos o console.log para entender a diferença entre:
-            -Interpolar e concatenar; 
-            -Number, bolean e a diferença entre Null X Undefined;
-            -Objeto, Array e function;
-    *Variaveis -> Porque Var não é mais usado. Sendo substituido por Let e Const.
-        +Compreendemos como as variaveis armazenam os dados que são definidos e como as declarar no Javasript
+espera que eles saiam (output).  
+
+    *Strings -> o Uso das aspas simples; aspas duplas e template laterais  
+        +Aplicamos o console.log para entender a diferença entre:  
+            -Interpolar e concatenar;  
+            -Number, bolean e a diferença entre Null X Undefined;  
+            -Objeto, Array e function;  
+
+    *Variaveis -> Porque Var não é mais usado. Sendo substituido por Let e Const.  
+        +Compreendemos como as variaveis armazenam os dados que são definidos e como as declarar no Javasript  
     *Operadores -> Entedemos por cima o que seria os termos Unario; binario e operando
 4. Por fim realizamos diversos exemplos para que o entendimento de todas essas informações se colocassem
 em pratica. A lição de casa, ao qual esse README se encontra, é um exemplo disso. Onde precisavamos utilizar
